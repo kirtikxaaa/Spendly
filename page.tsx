@@ -1,0 +1,2 @@
+import Doc from "@/components/Doc";
+export default function Privacy(){return <Doc title="Privacy 🔒"><p><b>No bank accounts are connected.</b> Calculations happen locally in your browser.</p><p>Your recent results are saved only on your own device (localStorage). Nothing is sent to a server, and there are no accounts or trackers.</p><p>Tap “clear the evidence” on the home page any time to delete them.</p></Doc>;}
