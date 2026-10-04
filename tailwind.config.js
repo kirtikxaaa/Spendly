@@ -1,0 +1,1 @@
+module.exports={content:["./app/**/*.tsx","./components/**/*.tsx"],theme:{extend:{colors:{cream:"#FFF9ED",butter:"#FFE68A",pink:"#FF8FB8",hot:"#FF5C93",lav:"#C8B6FF",mint:"#B8F2D0",plum:"#30243A",red:"#FF6B6B"},fontFamily:{display:["'Baloo 2'","system-ui","sans-serif"],body:["'DM Sans'","system-ui","sans-serif"]}}},plugins:[]};
